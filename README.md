@@ -22,6 +22,9 @@ Interactive Business Intelligence Dashboard built using <b>Power BI</b>
 <img src="https://img.shields.io/github/stars/abhi03985?style=for-the-badge"/>
 </p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=1DB954&height=120&section=footer"/>
+</p>
 ---
 
 # 📸 Dashboard Preview
